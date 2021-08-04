@@ -1,0 +1,71 @@
+    1  is
+    2  Is
+    3  Is
+    4  Is
+    5  IS
+    6  iS
+    7  1S
+    8  
+    9  TOUCH
+   10  MKDIR
+   11  mkdir
+   12  mkdir leaning_this
+   13  mkdir wow
+   14  man
+   15  Is /data
+   16  pwd
+   17  Is /
+   18  is
+   19  mkdir Learning_unix
+   20  is
+   21  git init
+   22  git add
+   23  cd /c/Users/palesa/Desktop/attempt.js
+   24  mkdir git-basic-exercises
+   25  mkdir lip
+   26  cd git-basic-exercise
+   27  ls -a
+   28  git init
+   29  ls -a
+   30  git status
+   31  touch README.md
+   32  ls -a
+   33  git status
+   34  git config --global user.email "paleisahmoagi77@gmail.com"
+   35  git config --global user.name "palesa moagi"
+   36  git add README.md
+   37  git commit -m "initial commit"
+   38  git log
+   39  nano README.md
+   40  cat README.md
+   41  git status
+   42  git commit -m "second commit"
+   43  git add README.md
+   44  git commit -m "second commit"
+   45  nano README.md
+   46  git add README.md
+   47  git commit -m "third commit"
+   48  git log
+   49  q
+   50  git checkout c8e3f76844e8aa9639fe5e0c2af2e979ee5fce96
+   51  cat README.md
+   52  git checkout main
+   53  git checkout 
+   54  git checkout master
+   55  cat README.md
+   56  git branch
+   57  git branch Milkshake-flavours
+   58  git branch
+   59  git checkout Milkshake-flavours
+   60  git branch
+   61  nano Milkshakes.md
+   62  git status
+   63  git add Milkshakes.md
+   64  git commit -m "added initial flavours"
+   65  git log
+   66  git checkout master
+   67  git branch history
+   68  git checkout history
+   69  git log
+   70  git branch
+   71  history > history.txt
